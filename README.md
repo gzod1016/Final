@@ -13,3 +13,6 @@ Materials needed :
 As only the digital signal can be processed by raspberry pi, we need to add a analog to digital converter (ADC) to process the analog signal from MQ-2 sensor.It can detect the smoke in the air according to the valtage value. MCP3008 as ADC chip is very common and recommended highly.
 
 The MQ-2 sensor can output the analog and digital signal when the work voltage is 2.5V-5V. When the CO gas is detected by sensor, the signal light turns on and the digital signal output the low-level valtage. In additon, there is a adjustable resistor to change the sensor sensitivity.
+
+Schematic Diagram on how to wire the raspberry pi  to the breadboard with all the parts
+![](http://osoyoo.com/wp-content/uploads/2017/03/mq-2.png)
