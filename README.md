@@ -41,7 +41,7 @@ Schematic Diagram on how to wire the raspberry pi  to the breadboard with all th
 When the programme start, there is no signal output within 20s.The sensor would preheat 20s firstly,then output after the data remain stable.It is normal for sensor to stay hot slightly.It can produce the smoke using the lighter.When you light the lighter in front of sensor,there is a signal output of “Gas lealage” word and the valtage value, the signal light turns on . If these the phenomenon above doesn’t appear, you could swing clockwise to adjust the resistor until the above phenomenon appear.
 
 **Picture of the the wired breadboard**
-![](images/BreadBoardWiring.png)
+![](images/breadboardwiring.jpg)
 
 **Screenshot of program 1st running**
 ![](images/BeforeLighterislit.png)
